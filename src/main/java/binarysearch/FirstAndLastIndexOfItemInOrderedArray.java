@@ -2,7 +2,7 @@ package binarysearch;
 
 import java.util.Arrays;
 
-// Leetcode 34 - Find First and Last Position of Element in Sorted Array
+// Leetcode - 34. Find First and Last Position of Element in Sorted Array
 public class FirstAndLastIndexOfItemInOrderedArray {
 
     public static void main(String[] args) {

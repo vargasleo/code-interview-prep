@@ -2,7 +2,7 @@ package binarysearch;
 
 import static java.lang.Math.min;
 
-// Leetcode 33 - Search in Rotated Sorted Array
+// Leetcode - 33. Search in Rotated Sorted Array
 public class SearchInRotatedSortedArray {
 
     public static void main(String[] args) {
